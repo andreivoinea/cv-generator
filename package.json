@@ -1,7 +1,6 @@
 {
-  "name": "my-cv",
-  "private": true,
-  "version": "0.0.0",
+  "name": "cv-generator",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
