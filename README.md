@@ -25,8 +25,8 @@ CV content is separated from the layout and styling, so creating another CV only
 Clone the repository and install dependencies:
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/andreivoinea/cv-generator.git
+cd cv-generator
 
 npm install
 ```
